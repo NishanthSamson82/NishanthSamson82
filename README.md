@@ -1,9 +1,5 @@
-- Hi, I’m Nishanth Samson
-- I’m a student pursuing dual BSc degrees in Data Science and Computer Science
-- I’m currently a student at AMC and IITM
+- Student pursuing dual BSc degrees in Data Science and Computer Science
 - Interested topics: Machine learning, Data science, UI/UX design 
-- " Trying to commit myself to branch out on git "
-- Portfolio website: www.nishanthsamson.me
 - Mail me: nishanthsamson@gmail.com
 
 <!---
